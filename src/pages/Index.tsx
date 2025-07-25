@@ -3,7 +3,7 @@ import EventHero from "@/components/EventHero";
 import AboutSection from "@/components/AboutSection";
 import TicketSection from "@/components/TicketSection";
 import LiveStreamSection from "@/components/LiveStreamSection";
-import EmailSignupSection from "@/components/EmailSignupSection";
+
 import ContactSection from "@/components/ContactSection";
 import Footer from "@/components/Footer";
 
@@ -40,7 +40,7 @@ const Index = () => {
       <AboutSection />
       <TicketSection />
       <LiveStreamSection />
-      <EmailSignupSection />
+      
       <ContactSection />
       <Footer />
     </div>
