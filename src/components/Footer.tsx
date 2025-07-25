@@ -17,7 +17,7 @@ const Footer = () => {
               </div>
               <div>
                 <h3 className="text-xl font-bold">Iron Sharpens Iron</h3>
-                <p className="text-sm opacity-80">Men's Conference 2024</p>
+                <p className="text-sm opacity-80">Men's Conference 2026</p>
               </div>
             </div>
             <p className="text-primary-foreground/80 mb-6">
@@ -53,11 +53,6 @@ const Footer = () => {
               <li>
                 <a href="#livestream" className="text-primary-foreground/80 hover:text-primary-foreground transition-colors">
                   Live Stream
-                </a>
-              </li>
-              <li>
-                <a href="#email-signup" className="text-primary-foreground/80 hover:text-primary-foreground transition-colors">
-                  Email Updates
                 </a>
               </li>
               <li>
